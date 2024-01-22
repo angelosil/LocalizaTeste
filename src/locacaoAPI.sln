@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "locacaoAPI", "locacaoAPI\locacaoAPI.csproj", "{47117C92-73CB-4633-BD7E-E76AAE998697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "locacaoAPITest", "locacaoAPITest\locacaoAPITest.csproj", "{C8FBDBF8-2B0A-402F-8217-D3FC835A8B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47117C92-73CB-4633-BD7E-E76AAE998697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47117C92-73CB-4633-BD7E-E76AAE998697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47117C92-73CB-4633-BD7E-E76AAE998697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47117C92-73CB-4633-BD7E-E76AAE998697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FBDBF8-2B0A-402F-8217-D3FC835A8B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FBDBF8-2B0A-402F-8217-D3FC835A8B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FBDBF8-2B0A-402F-8217-D3FC835A8B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FBDBF8-2B0A-402F-8217-D3FC835A8B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC463ABA-5E71-400B-8CED-B51FEE7EE84B}
+	EndGlobalSection
+EndGlobal
